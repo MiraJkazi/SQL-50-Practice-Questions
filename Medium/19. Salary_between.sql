@@ -1,0 +1,4 @@
+-- 19. Write SQL Query to Show Worker Info Whose SALARY is Between 100000 & 500000.
+
+SELECT * FROM worker
+WHERE SALARY BETWEEN 100000 AND 500000;
