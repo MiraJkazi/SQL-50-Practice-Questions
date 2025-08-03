@@ -1,0 +1,3 @@
+-- 10. Write SQL Query to Combine FIRST_NAME and LAST_NAME into COMPLETE_NAME.
+
+SELECT CONCAT(FIRST_NAME, " ", LAST_NAME) as FULL_NAME FROM worker;

@@ -1,0 +1,3 @@
+-- 1. Write SQL Query to Display FIRST_NAME with Alias WORKER_NAME.
+
+SELECT FIRST_NAME AS WORKER_NAME FROM worker;
